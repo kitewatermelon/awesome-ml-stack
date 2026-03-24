@@ -1,7 +1,7 @@
 # ⚡ Awesome PyTorch Ecosystem & ML Libraries
 
 > A curated archive of third-party libraries, frameworks, and tools built on or around PyTorch and the modern ML stack.  
-> Maintained by [@yeonsu](https://kitewatermelon.github.io) · Last updated: 2026-03
+> Maintained by [@yeonsupark](https://kitewatermelon.github.io) · Last updated: 2026-03
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)
@@ -236,4 +236,4 @@ Each entry follows this format:
 
 ## 📄 License
 
-[MIT](LICENSE) · Made with ☕ by 연수
+[MIT](LICENSE) · Made with ☕ by 박연수
